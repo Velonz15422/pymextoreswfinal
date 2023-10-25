@@ -1,5 +1,6 @@
 package com.pymextore.softwarev.dto;
 
+
 public class ResponseDto {
     
     private String status;
